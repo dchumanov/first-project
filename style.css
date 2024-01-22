@@ -91,13 +91,6 @@ h3 {
    font-size: 1.25em;
 }
 
-img {
-   border-style: dashed;
-   border-width: 10px;
-   border-color: black;
-   vertical-align: super;
-}
-
 a {
    text-decoration: none;
 }
